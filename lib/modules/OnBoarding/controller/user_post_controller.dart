@@ -1,8 +1,4 @@
-import 'dart:convert';
-
-import 'package:flutter/cupertino.dart';
-import 'package:dating_app_redesign/api/api_client.dart';
-import 'package:dating_app_redesign/modules/home/model/feed.dart';
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class OnboardingController extends GetxController {
